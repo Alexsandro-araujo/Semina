@@ -1,0 +1,22 @@
+
+.credit{
+ background: rgb(0, 0, 0);   
+ font-size: 1.3rem;
+ color: rgb(255, 0, 0);
+ padding: 15px;
+
+}
+.credit a{
+    color: rgb(255, 255, 255);
+    transition: 1s;
+}
+
+.credit a:hover{
+    color: rgb(255, 0, 0);
+    text-shadow: 0 0 8px white;
+}
+
+main{
+    align-items: center;
+    text-align: center;
+}
