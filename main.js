@@ -27,4 +27,6 @@ var swiper = new Swiper(".slider-content", {
   }
 });
 
+
+
 // there is one more way to create mepty object
